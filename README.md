@@ -1,3 +1,3 @@
-# codewar-katas
+# Codewar Katas
 
-## This is going to generate a list of everyone's Katas. It's also going to help us do pull requests and edit READMEs on GitHub!
+### This will be used for listing the katas we've written, and practicing pull requests on GitHub. Cheers! 
