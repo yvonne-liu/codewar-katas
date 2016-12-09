@@ -49,3 +49,5 @@
 * [Update inventory in your smartphone store](https://www.codewars.com/kata/57a31ce7cf1fa5a1e1000227) - Piotr Berebecki
 
 * [Find the most frequently occurring elements in arrays](https://www.codewars.com/kata/578b44a47c77f5a1bd000011) - Piotr Berebecki
+
+* [Volume of the Largest Cube that Fits Inside a Given Cylinder](https://www.codewars.com/kata/581e09652228a337c20001ac) - Colin Turner
