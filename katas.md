@@ -1,6 +1,6 @@
 #Codewar Katas
 
-###Add your Kata here! 
+###Add your Kata here!
 
 * [Decipher This!](https://www.codewars.com/kata/581e014b55f2c52bb00000f8) - Yvonne Liu
 
@@ -51,3 +51,5 @@
 * [Find the most frequently occurring elements in arrays](https://www.codewars.com/kata/578b44a47c77f5a1bd000011) - Piotr Berebecki
 
 * [Volume of the Largest Cube that Fits Inside a Given Cylinder](https://www.codewars.com/kata/581e09652228a337c20001ac) - Colin Turner
+
+* [Calculate the Hangul 'jamo' value from unicode letters!](https://www.codewars.com/kata/hangul-unicode-from-jamo-values/) - E Keane
