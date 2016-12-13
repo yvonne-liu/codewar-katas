@@ -1,6 +1,6 @@
 # Codewar Katas
 
-### This will be used for listing the katas we've written, and practicing pull requests on GitHub. Cheers! 
+### This will be used for listing the katas we've written, and practicing pull requests on GitHub. Cheers!
 
 ###Add your Kata below!
 
@@ -61,3 +61,5 @@
 * [Pack the box.](https://www.codewars.com/kata/pack-the-box) - Finn Hodgkin
 
 * [Rock Paper Scissors Oracle](https://www.codewars.com/kata/rock-paper-scissors-oracle) - Finn Hodgkin
+
+* [How long will it take the train to reach its final destination?](https://www.codewars.com/kata/how-long-will-it-take-the-train-to-reach-its-final-destination/javascript) - Madeleine Linder
