@@ -53,3 +53,9 @@
 * [Volume of the Largest Cube that Fits Inside a Given Cylinder](https://www.codewars.com/kata/581e09652228a337c20001ac) - Colin Turner
 
 * [Calculate the Hangul 'jamo' value from unicode letters!](https://www.codewars.com/kata/hangul-unicode-from-jamo-values/) - E Keane
+
+* [Balance the arrays](https://www.codewars.com/kata/balance-the-arrays) - Finn Hodgkin
+
+* [Pack the box.](https://www.codewars.com/kata/pack-the-box) - Finn Hodgkin
+
+* [Rock Paper Scissors Oracle](https://www.codewars.com/kata/rock-paper-scissors-oracle) - Finn Hodgkin
