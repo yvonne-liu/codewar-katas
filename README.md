@@ -63,3 +63,5 @@
 * [Rock Paper Scissors Oracle](https://www.codewars.com/kata/rock-paper-scissors-oracle) - Finn Hodgkin
 
 * [How long will it take the train to reach its final destination?](https://www.codewars.com/kata/how-long-will-it-take-the-train-to-reach-its-final-destination/javascript) - Madeleine Linder
+
+* [How do I dilute this correctly?](https://www.codewars.com/kata/how-do-i-dilute-this-correctly/train/javascript) - Steven Williams
