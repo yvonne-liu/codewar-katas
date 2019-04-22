@@ -65,3 +65,7 @@
 * [How long will it take the train to reach its final destination?](https://www.codewars.com/kata/how-long-will-it-take-the-train-to-reach-its-final-destination/javascript) - Madeleine Linder
 
 * [How do I dilute this correctly?](https://www.codewars.com/kata/how-do-i-dilute-this-correctly/train/javascript) - Steven Williams
+
+* [A Man and his Umbrellas](https://www.codewars.com/kata/58298e19c983caf4ba000c8d) - Matt Lubel
+
+* [The Supermaket Queue](https://www.codewars.com/kata/57b06f90e298a7b53d000a86) - Matt Lubel
